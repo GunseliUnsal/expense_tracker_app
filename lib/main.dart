@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'Expenses.dart';
+import 'widgets/expenses.dart';
 
 void main() {
   runApp(
