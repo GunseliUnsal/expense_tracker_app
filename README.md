@@ -16,10 +16,26 @@ The expense tracker app allows users to register their expenses. Users can see t
  <td><img src="img/expense_tracker_4.jpg" width="100%"></td>
  <td><img src="img/expense_tracker_3.jpg" width="100%"></td>
  <td><img src="img/expense_tracker_2.jpg" width="100%"></td>
- 
    </tr>  
   </tr>
 </table>
+
+## Installation
+
+1. Create a new Flutter project:
+  ```shell
+  flutter create expense_tracker_app
+  ```
+
+2. Clone the repository:
+  ```shell
+  git clone https://github.com/GunseliUnsal/expense_tracker_app.git
+  ```
+
+3. Test your changes by running the app on an emulator or a physical device:
+  ```shell
+  flutter run
+  ```
 
 
 ## Packages
